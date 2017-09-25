@@ -1,3 +1,3 @@
-http://localhost/SMM-Panel/
+localhost/SMM-Panel/
 https://trsocail.net/
 deneme
